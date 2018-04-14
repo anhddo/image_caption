@@ -5,7 +5,7 @@ RNN: 1 layer LSTM: hidden_size:512
 Embedded size: 256    
 Below are some captions are generated:
 
-| Image      |Cool  |
+| Image      |Caption  |
 |-------------|-----|
 |![](https://drive.google.com/uc?export=download&id=1r0mgIIAMVneKvaRJZdrioQw2UROMyLDQ)|a small white dog is swimming in a pool|
 |![](https://drive.google.com/uc?export=download&id=1vWj-YZgUTsX8Z-BuUFvJjquKKxd0q9A2)|a young girl and a girl are smiling|
